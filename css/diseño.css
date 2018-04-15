@@ -1,0 +1,30 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+header h1 {
+
+	height: 90px;
+	width: auto ;
+	background:white;
+}
+aside{
+height: 350px;
+	width: auto ;
+	background:blue;
+	font-family: castellar;
+	font-size: 25px;
+	text-align: center;
+	font-color:white;
+
+
+}
+footer{
+height: 300px;
+	width: auto ;
+	background:yellow;
+	font-family: Comic Sans Ms;
+	font-size: 18px;
+	text-align: center;
+
+}
